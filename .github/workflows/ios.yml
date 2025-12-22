@@ -10,34 +10,41 @@ jobs:
     runs-on: macos-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Flutter
+      - name: Set up Flutter (Dart 3.7+)
         uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.13.0'
           channel: stable
+          cache: true
 
-      - name: Check Flutter & Dart
+      - name: Verify Flutter & Dart versions
         run: |
           flutter --version
           dart --version
 
-      - name: Flutter clean
+      - name: Clean project
         run: flutter clean
 
-      - name: Get dependencies
+      - name: Install dependencies
         run: flutter pub get
 
       - name: Install CocoaPods
         run: sudo gem install cocoapods
 
-      - name: Build iOS (no signing)
-        run: flutter build ios --no-codesign
+      - name: iOS Pod install
+        run: |
+          cd ios
+          pod install
+          cd ..
 
-      - name: Upload iOS build
+      - name: Build iOS (unsigned)
+        run: flutter build ios --release --no-codesign
+
+      - name: Upload iOS build artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ios-build
+          name: ios-runner-app
           path: build/ios/iphoneos
