@@ -1,0 +1,1927 @@
+[
+  {
+    "company": "OneBrain",
+    "provider": "max",
+    "changedProvider": "",
+    "name": "MAX",
+    "model": "max",
+    "changedModel": "",
+    "image": "max",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": true,
+    "capability": [
+      "text",
+      "image",
+      "document"
+    ],
+    "category": [
+      "Premium",
+      "Unlimited",
+      "Advanced",
+      "Best-Performance",
+      "Multimodal"
+    ],
+    "tags": [
+      "unlimited-chats",
+      "premium-quality",
+      "max-performance",
+      "advanced-analysis",
+      "detailed-responses",
+      "dynamic-model-selection",
+      "multimodal",
+      "vision-capable",
+      "mathematical-reasoning",
+      "programming-expert",
+      "research-specialist"
+    ],
+    "features": [
+      "Automatic best model selection based on query type",
+      "Unlimited chat conversations",
+      "Maximum detailed responses without hallucinations",
+      "Advanced reasoning and mathematical capabilities",
+      "Expert-level programming assistance",
+      "Research and academic analysis",
+      "Image analysis and vision processing",
+      "PDF and document processing",
+      "Audio transcription and analysis",
+      "Structured comprehensive outputs",
+      "Premium subscriber exclusive",
+      "Intelligent attachment processing with fallback",
+      "Not available in Ask page"
+    ],
+    "system_prompt": "OneBrain MAX",
+    "description": "MAX is OneBrain's most advanced AI model with unlimited capabilities. Automatically selects the best specialized model (General, Research, Coding, Vision, Reasoning) based on your query type. Features unlimited chats, maximum detailed responses, multimodal support, and intelligent fallback systems. Perfect for students, programmers, researchers, and professionals who need the highest quality AI assistance.",
+    "inputCost": 0.0,
+    "outputCost": 0.0
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "",
+    "name": "GPT-5 nano",
+    "model": "gpt-5-nano",
+    "changedModel": "",
+    "image": "chatgptBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": true,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "A multimodal AI model capable of processing and generating text, images, and audio.",
+    "inputCost": 0.05,
+    "outputCost": 0.4
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "",
+    "name": "GPT-5 mini",
+    "model": "gpt-5-mini",
+    "changedModel": "",
+    "image": "chatgptBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": true,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "A multimodal AI model capable of processing and generating text, images, and audio.",
+    "inputCost": 0.25,
+    "outputCost": 2.0
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "",
+    "name": "GPT-5",
+    "model": "gpt-5",
+    "changedModel": "",
+    "image": "chatgptBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": true,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "A multimodal AI model capable of processing and generating text, images, and audio.",
+    "inputCost": 1.25,
+    "outputCost": 10.0
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "",
+    "name": "GPT-5.1",
+    "model": "gpt-5.1",
+    "changedModel": "",
+    "image": "/assets/providers/chatgpt-black.svg",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": true,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "Advanced GPT-5.1 model with enhanced capabilities for processing and generating text, images, and audio."
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "",
+    "name": "GPT-5.2",
+    "model": "gpt-5.2",
+    "changedModel": "",
+    "image": "chatgptBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      0,
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": true,
+    "capability": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Premium"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "video processing",
+      "multimodal input",
+      "advanced reasoning",
+      "code generation"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "video processing",
+      "multimodal input",
+      "advanced reasoning",
+      "extended context window",
+      "code generation"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "GPT-5.2 is OpenAI's most advanced multimodal AI model with enhanced reasoning, extended context window, and superior performance across text, image, audio, and video processing tasks.",
+    "inputCost": 1.75,
+    "outputCost": 14
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "",
+    "name": "GPT-4.1 nano",
+    "model": "gpt-4.1-nano",
+    "changedModel": "",
+    "image": "chatgptBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": true,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "A multimodal AI model capable of processing and generating text, images, and audio.",
+    "inputCost": 0.1,
+    "outputCost": 0.4
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "",
+    "name": "GPT-4.1 mini",
+    "model": "gpt-4.1-mini",
+    "changedModel": "",
+    "image": "chatgptBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": true,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "A multimodal AI model capable of processing and generating text, images, and audio.",
+    "inputCost": 0.4,
+    "outputCost": 1.6
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "",
+    "name": "GPT-4.1",
+    "model": "gpt-4.1",
+    "changedModel": "",
+    "image": "chatgptBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": true,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "A multimodal AI model capable of processing and generating text, images, and audio.",
+    "inputCost": 2,
+    "outputCost": 8
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "",
+    "name": "GPT-4o mini",
+    "model": "gpt-4o-mini",
+    "changedModel": "",
+    "image": "chatgptBlack",
+    "isNew": false,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": true,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "affordable"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "cost-effective"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "A smaller and more cost-effective version of GPT-4o, still capable of handling text and image inputs.",
+    "inputCost": 0.15,
+    "outputCost": 0.6
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "",
+    "name": "GPT-4o",
+    "model": "gpt-4o",
+    "changedModel": "",
+    "image": "chatgptBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": true,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Images",
+      "Freelancers",
+      "Health & Medical",
+      "Business"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "audio processing",
+      "multimodal input"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "A multimodal AI model capable of processing and generating text, images, and audio.",
+    "inputCost": 2.5,
+    "outputCost": 10
+  },
+  {
+    "company": "OpenAI",
+    "provider": "chatgpt",
+    "changedProvider": "chatgpt",
+    "name": "GPT Unlimited",
+    "model": "chatgpt-unlimited",
+    "changedModel": "gpt-oss-120b",
+    "image": "chatgptBlack",
+    "isNew": false,
+    "isFree": true,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": true,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Marketing"
+    ],
+    "tags": [
+      "text generation",
+      "image processing",
+      "affordable"
+    ],
+    "features": [
+      "text generation",
+      "image processing",
+      "cost-effective"
+    ],
+    "system_prompt": "OpenAI",
+    "description": "A smaller and more cost-effective version of GPT-4o, still capable of handling text and image inputs.",
+    "inputCost": 0,
+    "outputCost": 0
+  },
+  {
+    "company": "Anthropic",
+    "provider": "claude",
+    "changedProvider": "claude",
+    "name": "Claude 4.5 Haiku",
+    "model": "claude-haiku-4-5-20251001",
+    "changedModel": "",
+    "image": "claude",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Developers"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "fast inference"
+    ],
+    "system_prompt": "Anthropic",
+    "description": "Lightweight model optimized for speed and efficiency.",
+    "inputCost": 1,
+    "outputCost": 5
+  },
+  {
+    "company": "Anthropic",
+    "provider": "claude",
+    "changedProvider": "claude",
+    "name": "Claude Sonnet 4.5",
+    "model": "claude-sonnet-4-5-20250929",
+    "changedModel": "",
+    "image": "claude",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Developers",
+      "Health & Medical",
+      "Business"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "reasoning"
+    ],
+    "system_prompt": "Anthropic",
+    "description": "A highly interpretable model excelling in reasoning and safe outputs.",
+    "inputCost": 3,
+    "outputCost": 15
+  },
+  {
+    "company": "Anthropic",
+    "provider": "claude",
+    "changedProvider": "claude",
+    "name": "Claude Opus 4.1",
+    "model": "claude-opus-4-1-20250805",
+    "changedModel": "",
+    "image": "claude",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Developers",
+      "Health & Medical",
+      "Business"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "reasoning"
+    ],
+    "system_prompt": "Anthropic",
+    "description": "A highly interpretable model excelling in reasoning and safe outputs.",
+    "inputCost": 15,
+    "outputCost": 75
+  },
+  {
+    "company": "Anthropic",
+    "provider": "claude",
+    "changedProvider": "",
+    "name": "Claude 4 Sonnet",
+    "model": "claude-sonnet-4-20250514",
+    "changedModel": "",
+    "image": "claude",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      0,
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Developers",
+      "Health & Medical",
+      "Business"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "reasoning"
+    ],
+    "system_prompt": "Anthropic",
+    "description": "A highly interpretable model excelling in reasoning and safe outputs.",
+    "inputCost": 3,
+    "outputCost": 15
+  },
+  {
+    "company": "Anthropic",
+    "provider": "claude",
+    "changedProvider": "",
+    "name": "Claude 4 Opus",
+    "model": "claude-opus-4-20250514",
+    "changedModel": "",
+    "image": "claude",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Developers",
+      "Health & Medical",
+      "Business"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "reasoning"
+    ],
+    "system_prompt": "Anthropic",
+    "description": "A highly interpretable model excelling in reasoning and safe outputs.",
+    "inputCost": 15,
+    "outputCost": 75
+  },
+  {
+    "company": "Google",
+    "provider": "gemini",
+    "changedProvider": "",
+    "name": "Gemini 2.5 Flash Lite",
+    "model": "gemini-2.5-flash-lite",
+    "changedModel": "",
+    "image": "gemini",
+    "isNew": false,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Developers",
+      "Freelancers",
+      "Images",
+      "Marketing",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "low latency"
+    ],
+    "system_prompt": "Google",
+    "description": "A lightweight, fast model optimized for real-time applications.",
+    "inputCost": 0.1,
+    "outputCost": 0.4
+  },
+  {
+    "company": "Google",
+    "provider": "gemini",
+    "changedProvider": "",
+    "name": "Gemini 2.5 Flash",
+    "model": "gemini-2.5-flash",
+    "changedModel": "",
+    "image": "gemini",
+    "isNew": false,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Developers",
+      "Freelancers",
+      "Images",
+      "Marketing",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "low latency"
+    ],
+    "system_prompt": "Google",
+    "description": "A lightweight, fast model optimized for real-time applications.",
+    "inputCost": 0.3,
+    "outputCost": 2.5
+  },
+  {
+    "company": "Google",
+    "provider": "gemini",
+    "changedProvider": "",
+    "name": "Gemini 3 Pro Preview",
+    "model": "gemini-3-pro-preview",
+    "changedModel": "",
+    "image": "geminiBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      0,
+      299,
+      699
+    ],
+    "includedPackages": [
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": true,
+    "capability": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Preview",
+      "Premium"
+    ],
+    "tags": [
+      "text generation",
+      "image understanding",
+      "audio processing",
+      "video analysis",
+      "multimodal input",
+      "long context",
+      "code generation",
+      "reasoning",
+      "experimental",
+      "preview"
+    ],
+    "features": [
+      "text generation",
+      "image understanding",
+      "audio processing",
+      "video analysis",
+      "multimodal input",
+      "extended context window",
+      "advanced reasoning",
+      "code generation",
+      "real-time processing",
+      "experimental features",
+      "early access"
+    ],
+    "system_prompt": "Google",
+    "description": "Gemini 3 Pro Preview is Google's experimental release featuring cutting-edge multimodal capabilities and advanced reasoning. Early access to next-generation AI features with enhanced performance across text, image, audio, and video understanding.",
+    "inputCost": 4,
+    "outputCost": 18
+  },
+  {
+    "company": "Google",
+    "provider": "gemini",
+    "changedProvider": "",
+    "name": "Gemini 2.0 Flash Lite",
+    "model": "gemini-2.0-flash-lite",
+    "changedModel": "",
+    "image": "gemini",
+    "isNew": false,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Developers",
+      "Freelancers",
+      "Images",
+      "Marketing",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "low latency"
+    ],
+    "system_prompt": "Google",
+    "description": "A lightweight, fast model optimized for real-time applications.",
+    "inputCost": 0.075,
+    "outputCost": 0.3
+  },
+  {
+    "company": "Google",
+    "provider": "gemini",
+    "changedProvider": "",
+    "name": "Gemini 2.0 Flash",
+    "model": "gemini-2.0-flash",
+    "changedModel": "",
+    "image": "gemini",
+    "isNew": false,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Developers",
+      "Freelancers",
+      "Images",
+      "Marketing",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "low latency"
+    ],
+    "system_prompt": "Google",
+    "description": "A lightweight, fast model optimized for real-time applications.",
+    "inputCost": 0.1,
+    "outputCost": 0.4
+  },
+  {
+    "company": "XAi",
+    "provider": "grok",
+    "changedProvider": "",
+    "name": "Grok 3 Mini ",
+    "model": "grok-3-mini",
+    "changedModel": "",
+    "image": "grokBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "XAi",
+    "description": "A truth-seeking AI designed for analysis and exploration.",
+    "inputCost": 0.3,
+    "outputCost": 0.5
+  },
+  {
+    "company": "XAi",
+    "provider": "grok",
+    "changedProvider": "",
+    "name": "Grok 4.1 Fast",
+    "model": "grok-4.1-fast",
+    "changedModel": "",
+    "image": "grokBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "XAi",
+    "description": "A truth-seeking AI designed for analysis and exploration.",
+    "inputCost": 0.4,
+    "outputCost": 1
+  },
+  {
+    "company": "XAi",
+    "provider": "grok",
+    "changedProvider": "",
+    "name": "Grok 4",
+    "model": "grok-4-latest",
+    "changedModel": "",
+    "image": "grokBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "XAi",
+    "description": "A truth-seeking AI designed for analysis and exploration.",
+    "inputCost": 3,
+    "outputCost": 15
+  },
+  {
+    "company": "XAi",
+    "provider": "grok",
+    "changedProvider": "",
+    "name": "Grok Code Fast 1",
+    "model": "grok-code-fast-1",
+    "changedModel": "",
+    "image": "grokBlack",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant",
+      "Freelancers",
+      "Developers",
+      "Marketing",
+      "Health & Medical",
+      "Business"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "XAi",
+    "description": "A truth-seeking AI designed for analysis and exploration.",
+    "inputCost": 0.20,
+    "outputCost": 1.50
+  },
+  {
+    "company": "Meta",
+    "provider": "llama",
+    "changedProvider": "",
+    "name": "Llama-4-maverick",
+    "model": "llama-4-maverick",
+    "changedModel": "",
+    "image": "llama",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Meta",
+    "description": "A powerful and versatile model from Meta.",
+    "inputCost": 0.5,
+    "outputCost": 1.5
+  },
+  {
+    "company": "Meta",
+    "provider": "llama",
+    "changedProvider": "",
+    "name": "Llama-4-scout",
+    "model": "llama-4-scout",
+    "changedModel": "",
+    "image": "llama",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Meta",
+    "description": "A powerful and versatile model from Meta.",
+    "inputCost": 0.5,
+    "outputCost": 1.5
+  },
+  {
+    "company": "Meta",
+    "provider": "llama",
+    "changedProvider": "",
+    "name": "Llama-3.3 70b Instruct",
+    "model": "llama-3.3-70b-instruct",
+    "changedModel": "",
+    "image": "llama",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Meta",
+    "description": "A powerful and versatile model from Meta.",
+    "inputCost": 0.5,
+    "outputCost": 1.5
+  },
+  {
+    "company": "Meta",
+    "provider": "llama",
+    "changedProvider": "",
+    "name": "llama 4 Unlimited",
+    "model": "llama-3.3-70b-instruct:free",
+    "changedModel": "",
+    "image": "llama",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Meta",
+    "description": "A powerful and versatile model from Meta.",
+    "inputCost": 1,
+    "outputCost": 3
+  },
+  {
+    "provider": "deepseek",
+    "changedProvider": "",
+    "name": "DeepSeek v3.1",
+    "model": "deepseek-chat-v3.1",
+    "changedModel": "",
+    "image": "deepseek",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Developers",
+      "Academic",
+      "Social Media Assistant",
+      "Freelancers",
+      "Health & Medical",
+      "Business",
+      "Marketing"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "reasoning"
+    ],
+    "system_prompt": "DeepSeek",
+    "description": "Advanced model with fast inference speed.",
+    "inputCost": 0.25,
+    "outputCost": 1
+  },
+  {
+    "company": "DeepSeek",
+    "provider": "deepseek",
+    "changedProvider": "",
+    "name": "DeepSeek V3",
+    "model": "deepseek-chat-v3-0324",
+    "changedModel": "",
+    "image": "deepseek",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "DeepSeek",
+    "description": "An advanced model from DeepSeek for complex tasks.",
+    "inputCost": 0.2,
+    "outputCost": 0.4
+  },
+  {
+    "company": "DeepSeek",
+    "provider": "deepseek",
+    "changedProvider": "",
+    "name": "DeepSeek Unlimited",
+    "model": "deepseek-chat-v3-0324:free",
+    "changedModel": "",
+    "image": "deepseek",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "DeepSeek",
+    "description": "An advanced model from DeepSeek for complex tasks.",
+    "inputCost": 0.5,
+    "outputCost": 1
+  },
+  {
+    "company": "Perplexity",
+    "provider": "perplexity",
+    "changedProvider": "",
+    "name": "Perplexity Sonar Pro",
+    "model": "sonar-pro",
+    "changedModel": "",
+    "image": "perplexity",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Perplexity",
+    "description": "A powerful conversational AI from Perplexity.",
+    "inputCost": 1,
+    "outputCost": 3
+  },
+  {
+    "company": "Perplexity",
+    "provider": "perplexity",
+    "changedProvider": "",
+    "name": "Perplexity Sonar",
+    "model": "sonar",
+    "changedModel": "",
+    "image": "/assets/providers/perplexity.svg",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Freelancers",
+      "Social Media Assistant",
+      "Developers",
+      "Health & Medical",
+      "Business",
+      "Marketing"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input",
+      "web search",
+      "citations"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "reasoning",
+      "web search",
+      "citations"
+    ],
+    "system_prompt": "Perplexity",
+    "description": "Advanced reasoning model with real-time web search and citations. Available from Tk299 package.",
+    "inputCost": 1,
+    "outputCost": 5
+  },
+  {
+    "company": "MistralAI",
+    "provider": "mistral",
+    "changedProvider": "",
+    "name": "Mistral 3.1 24b Instruct",
+    "model": "mistral-small-24b-instruct-2501",
+    "changedModel": "",
+    "image": "mistral",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Mistral",
+    "description": "A high-performance model from Mistral AI.",
+    "inputCost": 0.4,
+    "outputCost": 1.2
+  },
+  {
+    "company": "MistralAI",
+    "provider": "mistral",
+    "changedProvider": "",
+    "name": "Mistral Unlimited",
+    "model": "mistral-small-24b-instruct-2501:free",
+    "changedModel": "",
+    "image": "mistral",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Mistral",
+    "description": "A high-performance model from Mistral AI.",
+    "inputCost": 0.8,
+    "outputCost": 2.4
+  },
+  {
+    "company": "Alibaba",
+    "provider": "qwen",
+    "changedProvider": "",
+    "name": "Qwen 3",
+    "model": "qwen3-32b",
+    "changedModel": "",
+    "image": "qwen",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "0",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Alibaba",
+    "description": "A powerful model from Alibaba's Qwen series.",
+    "inputCost": 0.5,
+    "outputCost": 1.5
+  },
+  {
+    "company": "Alibaba",
+    "provider": "qwen",
+    "changedProvider": "",
+    "name": "Qwen 3 A3B",
+    "model": "qwen3-30b-a3b",
+    "changedModel": "",
+    "image": "qwen",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Alibaba",
+    "description": "A powerful model from Alibaba's Qwen series.",
+    "inputCost": 0.5,
+    "outputCost": 1.5
+  },
+  {
+    "company": "Alibaba",
+    "provider": "qwen",
+    "changedProvider": "",
+    "name": "Qwen 3 A22B",
+    "model": "qwen3-235b-a22b",
+    "changedModel": "",
+    "image": "qwen",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Alibaba",
+    "description": "A powerful model from Alibaba's Qwen series.",
+    "inputCost": 0.5,
+    "outputCost": 1.5
+  },
+  {
+    "company": "Alibaba",
+    "provider": "qwen",
+    "changedProvider": "",
+    "name": "Qwen 3 Coder",
+    "model": "qwen3-coder-30b-a3b-instruct",
+    "changedModel": "",
+    "image": "qwen",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": false,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Developers",
+      "Health & Medical",
+      "Marketing",
+      "Business"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "reasoning"
+    ],
+    "system_prompt": "Alibaba",
+    "description": "Next-gen reasoning model with enhanced precision.",
+    "inputCost": 0.07,
+    "outputCost": 0.28
+  },
+  {
+    "company": "Alibaba",
+    "provider": "qwen",
+    "changedProvider": "",
+    "name": "Qwen Unlimited",
+    "model": "qwq-32b:free",
+    "changedModel": "",
+    "image": "qwen",
+    "isNew": true,
+    "isFree": false,
+    "disabledPackages": [
+      299
+    ],
+    "includedPackages": [
+      "699",
+      "299",
+      "1999",
+      "4999"
+    ],
+    "forPro": true,
+    "isActive": false,
+    "capability": [
+      "text"
+    ],
+    "category": [
+      "All",
+      "Popular",
+      "Academic",
+      "Social Media Assistant"
+    ],
+    "tags": [
+      "code completion",
+      "code snippet",
+      "multi model input"
+    ],
+    "features": [
+      "code completion",
+      "code snippet",
+      "content analysis"
+    ],
+    "system_prompt": "Alibaba",
+    "description": "A powerful model from Alibaba's Qwen series.",
+    "inputCost": 1,
+    "outputCost": 3
+  }
+]

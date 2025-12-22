@@ -1,0 +1,36 @@
+OneBrain Mobile App - Major Update
+
+✨ NEW FEATURES:
+- Fixed Android navigation button overlap
+- Enhanced Explore button with dramatic glow effect  
+- Instant conversation switching with smart caching
+- Fixed device back button functionality
+- Optimized chat history layout
+- Fixed send button enable/disable functionality
+
+⚡ PERFORMANCE:
+- Background preloading of conversations
+- Smart cache with 50-conversation limit
+- Eliminated loading delays during chat switching
+- Memory-efficient cache management
+- Instant UI feedback
+
+🎨 UI/UX IMPROVEMENTS:
+- Better spacing and typography
+- Enhanced font sizes and readability
+- Fixed glow effect positioning
+- Improved button states and visual feedback
+
+🐛 BUG FIXES:
+- Send button not enabling when text entered
+- Back button not working on billing/plans pages
+- White space issues in explore screen
+- App bar configurations
+- Navigation handling
+
+📱 MOBILE OPTIMIZATIONS:
+- Proper device back button handling
+- Enhanced chat experience
+- Better memory management
+
+Please test all features and report any issues! 
